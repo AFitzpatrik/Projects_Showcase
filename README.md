@@ -5,6 +5,7 @@
 I'm currently working as a SW Tester, in a automotive company.
 You can find my miniproject, which I made while learning python, MySQL, CSS, HTML and JavaScrip here!
 
+
 - 💡 I'm currently learning web development at Software Development Academy.
 
 
