@@ -1,7 +1,7 @@
-<h2 align="center">Hello, I'm Patrik! 👋</h2>
+<h1 align="center">Hello, I'm Patrik! 👋</h1>
 
 
-<h1 align="center">About Me</h1>
+<h2 align="center">About Me</h2>
 I'm currently working as a SW Tester, in a automotive company.
 You can find my miniproject, which I made while learning python, MySQL, CSS, HTML and JavaScrip here!
 
@@ -9,7 +9,7 @@ You can find my miniproject, which I made while learning python, MySQL, CSS, HTM
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
