@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Patrik! 👋</h1>
 
 
-## 💪 About Me
+<h1 align="center">About Me</h1>
 I'm currently working as a SW Tester, in a automotive company.
 You can find my miniproject, which I made while learning python, MySQL, CSS, HTML and JavaScrip here!
 
