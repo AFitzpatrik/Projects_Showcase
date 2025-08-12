@@ -1,13 +1,11 @@
 <h1 align="center">Hello, I'm Patrik! 👋</h1>
 
-
 <h2 align="center">About Me</h2>
-I'm currently working as a SW Tester, in a automotive company.
-You can find my miniproject, which I made while learning python, MySQL, CSS, HTML and JavaScrip here!<br><br>
+I'm currently working as a SW Tester in an online entertainment company.  
+You can find my mini project, which I made while learning Python, MySQL, CSS, HTML, and JavaScript, here!<br><br>
 
-
-- 💡 I'm currently Python and other tools and languages for web development at Software Development Academy.
-
+- 💡 I'm currently studying Python and other tools and languages for web development at the Software Development Academy.  
+- ⚙️ I love to optimize and simplify QA processes, and I'm trying to improve my knowledge of API testing and test automation with Playwright and Selenium.
 
 
 
